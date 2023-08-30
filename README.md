@@ -10,11 +10,11 @@ It aligns with the board's needs for actionable insights and demonstrates the im
 The design choices reflect the specific needs of the audience, ensuring a compelling and informative presentation for the stakeholders.
 
 ####
-<a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/SuperstoreDiscountAnalysis_16929256562840/SuperstoreDiscountAnalysis"><img src="BMI Calculator snapshot.png"></img></a>
+<a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/SuperstoreDiscountAnalysis_16929256562840/SuperstoreDiscountAnalysis"><img src="Introduction.png"></img></a>
 ####
-<a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/SuperstoreDiscountAnalysis_16929256562840/SuperstoreDiscountAnalysis"><img src="BMI Calculator snapshot.png"></img></a>
+<a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/SuperstoreDiscountAnalysis_16929256562840/SuperstoreDiscountAnalysis"><img src="Profitability Trends.png"></img></a>
 ####
-<a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/SuperstoreDiscountAnalysis_16929256562840/SuperstoreDiscountAnalysis"><img src="BMI Calculator snapshot.png"></img></a>
+<a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/SuperstoreDiscountAnalysis_16929256562840/SuperstoreDiscountAnalysis"><img src="Discount Impact Analysis.png"></img></a>
 
 #### Who It's For:
 Crafted for the company's board members, the key decision-makers. It's designed to deliver clear findings and actionable recommendations from the "Superstore Discount Analysis.
